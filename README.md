@@ -21,12 +21,12 @@ Try to implement pixel graphics with C# in Console App.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Create Github project
-  - [] Create welcome readme
-  - [] Add initial commit of the project
-- [] Phase 1. Show all Solar objects in console (UI, lol)
-- [] Phase 2. Add objects move
-- [] Phase 3. Add objects animation
+- [ ] Create Github project
+  - [x] Create welcome readme
+  - [ ] Add initial commit of the project
+- [ ] Phase 1. Show all Solar objects in console (UI, lol)
+- [ ] Phase 2. Add objects move
+- [ ] Phase 3. Add objects animation
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
